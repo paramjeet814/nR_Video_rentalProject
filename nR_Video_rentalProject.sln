@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nR_Video_rentalProject", "nR_Video_rentalProject\nR_Video_rentalProject.csproj", "{F29DD9E9-AABD-43E6-88DD-00909A90C52A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nR_Video_rentalProjectTests", "nR_Video_rentalProjectTests\nR_Video_rentalProjectTests.csproj", "{848E1ADE-1CBA-4AB2-B578-56400FBD05DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F29DD9E9-AABD-43E6-88DD-00909A90C52A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F29DD9E9-AABD-43E6-88DD-00909A90C52A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F29DD9E9-AABD-43E6-88DD-00909A90C52A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F29DD9E9-AABD-43E6-88DD-00909A90C52A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{848E1ADE-1CBA-4AB2-B578-56400FBD05DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{848E1ADE-1CBA-4AB2-B578-56400FBD05DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{848E1ADE-1CBA-4AB2-B578-56400FBD05DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{848E1ADE-1CBA-4AB2-B578-56400FBD05DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D484B85-CCD8-414A-A74B-EE3C0EA32AD9}
+	EndGlobalSection
+EndGlobal
